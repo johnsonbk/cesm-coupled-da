@@ -1,6 +1,6 @@
-###########
-CESM basics
-###########
+###############
+Getting started
+###############
 
 Community Earth System Model (CESM) installation instructions are available via
 the `README <https://github.com/ESCOMP/CESM>`_ on the GitHub repository. The
