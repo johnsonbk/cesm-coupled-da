@@ -26,5 +26,5 @@ test concepts relevant to coupled data assimilation, including:
    :caption: CESM
 
    /cesm/getting-started
-   /cesm/building
+   /cesm/compsets
 
