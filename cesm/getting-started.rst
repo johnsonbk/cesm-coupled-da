@@ -34,7 +34,7 @@ grids have descriptive long names when they are defined such as ``fv0.9x1.25``
 the seventh version of the oceanic displaced Greenland pole ~1° grid.
 
 These long names are shortened when the atmospheric/land grids are coupled to
-the ocean/sea ice grid. Instaed of ``fv0.9x1.25`` and ``gx1v7``, the shortened
+the ocean/sea ice grid. Instead of ``fv0.9x1.25`` and ``gx1v7``, the shortened
 name becomes ``f09_g17``.
 
 Atmospheric grids
