@@ -28,3 +28,9 @@ test concepts relevant to coupled data assimilation, including:
    /cesm/getting-started
    /cesm/compsets
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Datasets
+   
+   /datasets/reanalysis
