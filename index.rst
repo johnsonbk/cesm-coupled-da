@@ -32,5 +32,6 @@ test concepts relevant to coupled data assimilation, including:
    :maxdepth: 2
    :hidden:
    :caption: Datasets
-   
+  
+   /datasets/forcing-ocean-sea-ice
    /datasets/reanalysis
