@@ -19,6 +19,7 @@ test concepts relevant to coupled data assimilation, including:
    :caption: DART
 
    /dart/compiling
+   /dart/troubleshooting
 
 .. toctree::
    :maxdepth: 2
