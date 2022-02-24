@@ -37,3 +37,10 @@ test concepts relevant to coupled data assimilation, including:
   
    /datasets/forcing-ocean-sea-ice
    /datasets/reanalysis
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Experiments
+
+   experiments/seasonal-prediction
