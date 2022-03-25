@@ -37,6 +37,7 @@ test concepts relevant to coupled data assimilation, including:
   
    /datasets/forcing-ocean-sea-ice
    /datasets/reanalysis
+   /datasets/lens2
 
 .. toctree::
    :maxdepth: 2
