@@ -29,6 +29,7 @@ test concepts relevant to coupled data assimilation, including:
    /cesm/getting-started
    /cesm/compsets
    /cesm/data-assimilation-cycles
+   /cesm/modifying-setup-nuopc
 
 .. toctree::
    :maxdepth: 2
