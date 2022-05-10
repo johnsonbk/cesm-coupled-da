@@ -5,7 +5,7 @@ Modifying setup scripts for NUOPC
 .. note::
 
    It isn't actually necessary to use a setup script to create a multi-instance
-   CESM case to test NUOPC functionality. CIME's ``./create_crewcase`` script
+   CESM case to test NUOPC functionality. CIME's ``./create_newcase`` script
    can be invoked with the ``--ninst`` option instead.
 
 Overview
